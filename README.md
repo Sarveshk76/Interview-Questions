@@ -5,3 +5,6 @@
 4. [Palindrome](https://github.com/Sarveshk76/Interview-Questions/blob/main/Palindrome.py)
 5. [Two Numbers Addition](https://github.com/Sarveshk76/Interview-Questions/blob/main/Two%20number%20addition.py)
 6. [Validate Subsequence](https://github.com/Sarveshk76/Interview-Questions/blob/main/Validate%20subsequence.py)
+7. [Three number sum](https://github.com/Sarveshk76/Interview-Questions/blob/main/Three%20number%20sum.py)
+8. [Bubble sort](https://github.com/Sarveshk76/Interview-Questions/blob/main/Bubble%20sort.py)
+9. [Selection sort](https://github.com/Sarveshk76/Interview-Questions/blob/main/Selection%20sort.py)
